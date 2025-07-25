@@ -1,7 +1,7 @@
 ---
 ## Recomendaciones para la Definición de Objetivos y la Delimitación del Alcance en Trabajos Universitarios en Grupo
 
-La fase inicial de cualquier proyecto académico grupal es crucial y debe incluir una **definición precisa de los objetivos** y una **clara delimitación del alcance**. Este proceso no solo proporciona una dirección unificada al equipo, sino que también previene desviaciones, optimiza la asignación de recursos y facilita la evaluación final del trabajo. A continuación, se detallan recomendaciones para abordar estas tareas de manera sistemática y académica:
+La fase inicial de cualquier proyecto académico grupal es crucial y debe incluir una definición precisa de los objetivos y una clara delimitación del alcance. Este proceso no solo proporciona una dirección unificada al equipo, sino que también previene desviaciones, optimiza la asignación de recursos y facilita la evaluación final del trabajo. A continuación, se detallan recomendaciones para abordar estas tareas de manera sistemática y académica:
 
 ---
 ### 1. Definición de Objetivos (Principio SMART)
