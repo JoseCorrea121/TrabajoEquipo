@@ -11,7 +11,6 @@ Asimismo, se enfatizan aspectos cualitativos como la **resolución constructiva 
 
 Este manual está diseñado como una **herramienta práctica y estratégica** para optimizar la colaboración en cualquier proyecto académico grupal. Su implementación efectiva no reside simplemente en su lectura, sino en la **adopción activa y consensuada** de sus recomendaciones en cada fase del trabajo. Aquí te detallamos cómo tu grupo puede integrar este manual para maximizar su eficiencia y asegurar resultados de alta calidad.
 
----
 ### 1. Fase de Inicio: Estableciendo los Cimientos del Proyecto
 
 Desde el primer momento en que se conforma el grupo, el manual debe ser vuestro referente inicial.
@@ -22,7 +21,6 @@ Desde el primer momento en que se conforma el grupo, el manual debe ser vuestro 
 * **Creación del Cronograma (Sección "Gestión de Tiempos"):** Empleen la guía para "Formalizar el Cronograma". Desglosen el proyecto en tareas, asignen plazos realistas a cada una y designen responsables. Utilicen una **herramienta de calendario compartido** como se sugiere en el manual.
 * **Formalización de Reuniones Iniciales (Sección "Otros Puntos Afines" / "Comunicación"):** Implementen las recomendaciones para "Formalizar Reuniones". Desde la primera sesión, establezcan una agenda, designen un moderador y un secretario, y asegúrense de documentar todos los acuerdos en una minuta.
 
----
 ### 2. Fase de Desarrollo: Ejecución y Seguimiento Continuo
 
 A medida que el proyecto avanza, el manual se convierte en una referencia constante para mantener el orden y la eficiencia.
@@ -32,7 +30,6 @@ A medida que el proyecto avanza, el manual se convierte en una referencia consta
 * **Estandarización de Formatos (Sección "Formatos"):** Antes de que cada miembro empiece a redactar su parte, todos deben conocer y usar la **plantilla de documentos** y la **guía de formato general, citas y referencias** que se establecieron. Esto asegurará la cohesión estilística y bibliográfica del trabajo final.
 * **Resolución de Conflictos (Sección "Otros Puntos Afines"):** Si surgen diferencias de opinión o problemas internos, recurran a la cultura de **comunicación abierta y constructiva** fomentada en el manual. Aborden los conflictos de manera directa y busquen soluciones que beneficien al proyecto.
 
----
 ### 3. Fase de Cierre: Integración, Revisión y Presentación
 
 En las etapas finales, el manual guiará al grupo para asegurar un acabado profesional y una exposición impecable.
