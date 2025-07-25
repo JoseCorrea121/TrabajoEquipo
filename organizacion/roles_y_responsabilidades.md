@@ -52,5 +52,3 @@ Finalmente, es vital que todas las decisiones sobre roles y responsabilidades se
 * **Revisión Periódica:** Programa momentos para revisar las asignaciones y ajustarlas si el proyecto cambia o surgen nuevas necesidades.
 
 Aplicar estas recomendaciones ayudará a tu grupo de trabajo universitario a ser más eficiente, equitativo y unido, maximizando el potencial de cada integrante y la calidad del trabajo final.
-
----
