@@ -7,3 +7,7 @@
 ## [1.2] - 2025-07-25 8:50 a.m.
 ### Added 
 - Añadido y llenado del archivo objetivos_y_alcance.md.
+
+## [1.3] - 2025-07-25 9:15 a.m.
+### Added 
+- Añadido y llenado del archivo cronograma.md.
